@@ -78,6 +78,7 @@ public class MainApp extends Application{
 		pane.setLeft(vbox1);
 		primaryStage.setScene(scene);
 		primaryStage.setTitle("window");
+		primaryStage.setTitle("hej");
 		primaryStage.show();
 		
 	}
